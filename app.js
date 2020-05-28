@@ -12,8 +12,8 @@ ADDITIONAL:
 
 // Game variables
 const totalGuesses = 3,
-  min = 7,
-  max = 9;
+  min = 1,
+  max = 10;
 let winningNum = getRandomNum(min, max),
   guessesLeft = totalGuesses,
   gamePlaying = true,
