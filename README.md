@@ -1,3 +1,3 @@
 # Number Guesser
 
-A number guessing game.
+This is a number guessing game.
